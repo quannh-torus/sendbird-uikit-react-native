@@ -22,3 +22,5 @@ version.ts
 lerna-debug.log
 
 /docs
+
+.yarn/*
