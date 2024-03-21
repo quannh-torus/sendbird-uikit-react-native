@@ -100,6 +100,5 @@
     "@sendbird/chat": "4.11.3",
     "@types/react": "^18",
     "@types/react-native": "^0.67"
-  },
-  "packageManager": "yarn@3.2.1"
+  }
 }
